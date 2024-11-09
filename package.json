@@ -1,0 +1,19 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000T\u0000o\u0000d\u0000o\u0000L\u0000i\u0000s\u0000t\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^5.1.0",
+    "tsc": "^2.0.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
